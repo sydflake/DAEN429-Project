@@ -1,5 +1,5 @@
 # Final DAEN 429 Project: ASL Visual Detection Model
-This project evaluates sign-language recognition models using static American Sign Language (ASL) alphabet classification. Four training policies were tested: T-A, T-B, T-C, and S-A. The goal is to compare model accuracy, F1 score, and generalization performance across different training strategies. 
+This project evaluates sign-language recognition models using static American Sign Language (ASL) alphabet classification. Four training policies were tested: T-A (head only), T-B (last block + head), T-C (progressive unfreezing), and S-A (training from scratch). The goal is to compare model accuracy, F1 score, and generalization performance across different training strategies. 
 
 ### Dataset Overview
 
